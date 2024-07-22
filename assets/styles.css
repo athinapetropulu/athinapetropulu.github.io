@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+.profile-pic {
+  float: right;
+  margin: 10px;
+  border-radius: 50%;
+  width: 150px;
+}
+
+h1, h2, h3 {
+  color: #0056b3;
+}
+
+nav a {
+  color: #0056b3;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}

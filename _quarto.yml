@@ -1,0 +1,20 @@
+project:
+  type: website
+  title: "Athina Petropulu"
+  author: "Athina Petropulu"
+  output-dir: docs
+
+website:
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Publications"
+        href: publications.qmd
+    right:
+      - icon: github
+        href: https://github.com/athinapetropulu/athinapetropulu.github.io
+
+format:
+  html:
+    css: assets/css/styles.css

@@ -1,0 +1,38 @@
+---
+title: "Publications"
+---
+
+# Publications
+
+## Books
+- Higher-Order Spectra Analysis: a Nonlinear Signal Processing Framework, Prentice-Hall, Inc., 1993 (with C. L. Max Nikias)
+
+## Journal Articles
+- Xu, Z. and Petropulu, A., 2023. A bandwidth efficient dual-function radar communication system based on a MIMO radar using OFDM waveforms. IEEE Transactions on Signal Processing, vol. 71, pp. 401-416.
+- Xu, Z., Shi, C.,  Zhang, T., Li, S., Yuan, Y., Wu, C.-T., Chen, Y. and A. Petropulu, A. 2022. Simultaneous monitoring of multiple people's vital signs leveraging a single phased-MIMO radar. IEEE Journal of Electromagnetics, RF, and Microwaves in Medicine and Biology, 6(3), pp. 311-320.
+- Evmorfos, S., Diamantaras, K. and Petropulu, A., 2022. Reinforcement Learning for Motion Policies in Mobile Relaying Networks. IEEE Transactions on Signal Processing, vol. 70, pp. 850-861.
+- Zhang, J.A., Liu, F., Masouros, C., Heath, R.W., Feng, Z., Zheng, L. and Petropulu, A., 2021. An overview of signal processing techniques for joint communication and radar sensing. IEEE Journal of Selected Topics in Signal Processing, 15(6), pp.1295-1315.
+- Sun, S.,  Petropulu, A. and Poor, H.V., 2020.  MIMO Radar for ADAS and Autonomous Driving: Advantages and Challenges. IEEE Signal Processing Magazine, 37(4).
+- Liu, F., Masouros, C., Petropulu, A.P., Griffiths, H. and Hanzo, L., 2020. Joint radar and communication design: Applications, state-of-the-art, and the road ahead. IEEE Transactions on Communications, 68(6), pp.3834-3862.
+- Kalogerias, D. S.  and Petropulu, A., 2018. Spatially controlled relay beamforming, 2-stage QoS enhancement distributed policies. IEEE Transactions on Signal Processing, 66(24), pp. 6418 - 6433.
+- Liu, F., Zhou, L., Masouros, C., Li, A., Luo, W. and Petropulu, A., 2018. Toward dual-functional radar-communication systems: Optimal waveform design. IEEE Transactions on Signal Processing, 66(16), pp.4264-4279.
+- Li, B. and Petropulu, A.P., 2017. Joint transmit designs for coexistence of MIMO wireless communications and sparse sensing radars in clutter. IEEE Transactions on Aerospace and Electronic Systems, 53(6), pp.2846-2864.
+- Li, B., Petropulu, A.P. and Trappe, W., 2016. Optimum co-design for spectrum sharing between matrix completion based MIMO radars and a MIMO communication system. IEEE Transactions on Signal Processing, 64(17), pp.4562-4575.
+- Zheng, G., Krikidis, I., Li, J., Petropulu, A.P. and Ottersten, B., 2013. Improving physical layer secrecy using full-duplex jamming receivers. IEEE Transactions on Signal Processing, 61(20), pp.4962-4974.
+- Li, J., Petropulu, A.P. and Weber, S., 2011. On cooperative relaying schemes for wireless physical layer security. IEEE transactions on signal processing, 59(10), pp.4985-4997.
+- Yu, Y., Petropulu, A.P. and Poor, H.V., 2010. MIMO radar using compressive sampling. IEEE Journal of Selected Topics in Signal Processing, 4(1), pp.146-163.
+- Dong, L., Han, Z., Petropulu, A.P. and Poor, H.V., 2009. Improving wireless physical layer security via cooperating relays. IEEE transactions on signal processing, 58(3), pp.1875-1888.
+
+# Awards and Honors
+- IEEE Communications Society Stephen O. Rice Prize (2023)
+- Technical Program co-Chair, 2023 IEEE Int. Conference on Acoustics Speech and Signal Processing (ICASSP), Kos, Greece
+- IEEE Signal Processing Society Young Author Best Paper Award (with F. Liu) (2021)
+- Barry Carlton Best Paper Award, IEEE Aerospace and Electronic Systems Society (2021)
+- IEEE Signal Processing Society Young Author Best Paper Award (with B. Li) (2020)
+- Member-at-Large, IEEE Signal Processing Board of Governors (2018-2019)
+- President, ECE Department Heads Association (ECEDHA) (2015)
+- IEEE Signal Processing Society Meritorious Service Award (2012)
+- Great Master, University of Electronic Science and Technology of China (2012)
+- IEEE Signal Processing Society VP Conferences (2006-2009)
+- IEEE Signal Processing Magazine Best Paper Award (2005)
+- Presidential Faculty Fellow Award (The White House/NSF), 1995
