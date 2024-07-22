@@ -1,26 +1,41 @@
 body {
-  font-family: Arial, sans-serif;
-  line-height: 1.6;
-  margin: 0;
-  padding: 0;
-  color: #333;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #333;
 }
 
-.profile-pic {
-  float: right;
-  margin: 10px;
-  border-radius: 50%;
-  width: 150px;
+nav ul {
+    list-style-type: none;
+    padding: 0;
 }
 
-h1, h2, h3 {
-  color: #0056b3;
+nav ul li {
+    display: inline;
+    margin-right: 10px;
 }
 
 nav a {
-  color: #0056b3;
+    color: #0056b3;
+    text-decoration: none;
 }
 
 nav a:hover {
-  text-decoration: underline;
+    text-decoration: underline;
+}
+
+.content {
+    padding: 20px;
+}
+
+.profile-pic {
+    float: right;
+    margin: 10px;
+    border-radius: 50%;
+    width: 150px;
+}
+
+h1, h2, h3 {
+    color: #0056b3;
 }

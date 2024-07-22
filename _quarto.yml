@@ -1,10 +1,11 @@
 project:
   type: website
   title: "Athina Petropulu"
-  author: "Athina Petropulu"
   output-dir: docs
 
 website:
+  title: "Athina Petropulu"
+  author: "Athina Petropulu"
   navbar:
     left:
       - text: "Home"
@@ -17,4 +18,4 @@ website:
 
 format:
   html:
-    css: assets/styles.css
+    css: assets/css/styles.css
