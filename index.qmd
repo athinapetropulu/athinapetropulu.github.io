@@ -2,7 +2,7 @@
 title: "Home"
 ---
 
-![Athina Petropulu](assets/images/athina.jpg){.profile-pic}
+![Athina Petropulu](assets/athina.jpg){.profile-pic}
 
 # Athina Petropulu
 

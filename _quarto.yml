@@ -17,4 +17,4 @@ website:
 
 format:
   html:
-    css: assets/css/styles.css
+    css: assets/styles.css
