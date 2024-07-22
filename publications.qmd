@@ -1,5 +1,6 @@
 ---
 title: "Publications"
+author: "Athina Petropulu"
 ---
 
 # Publications
@@ -20,19 +21,4 @@ title: "Publications"
 - Li, B., Petropulu, A.P. and Trappe, W., 2016. Optimum co-design for spectrum sharing between matrix completion based MIMO radars and a MIMO communication system. IEEE Transactions on Signal Processing, 64(17), pp.4562-4575.
 - Zheng, G., Krikidis, I., Li, J., Petropulu, A.P. and Ottersten, B., 2013. Improving physical layer secrecy using full-duplex jamming receivers. IEEE Transactions on Signal Processing, 61(20), pp.4962-4974.
 - Li, J., Petropulu, A.P. and Weber, S., 2011. On cooperative relaying schemes for wireless physical layer security. IEEE transactions on signal processing, 59(10), pp.4985-4997.
-- Yu, Y., Petropulu, A.P. and Poor, H.V., 2010. MIMO radar using compressive sampling. IEEE Journal of Selected Topics in Signal Processing, 4(1), pp.146-163.
-- Dong, L., Han, Z., Petropulu, A.P. and Poor, H.V., 2009. Improving wireless physical layer security via cooperating relays. IEEE transactions on signal processing, 58(3), pp.1875-1888.
-
-# Awards and Honors
-- IEEE Communications Society Stephen O. Rice Prize (2023)
-- Technical Program co-Chair, 2023 IEEE Int. Conference on Acoustics Speech and Signal Processing (ICASSP), Kos, Greece
-- IEEE Signal Processing Society Young Author Best Paper Award (with F. Liu) (2021)
-- Barry Carlton Best Paper Award, IEEE Aerospace and Electronic Systems Society (2021)
-- IEEE Signal Processing Society Young Author Best Paper Award (with B. Li) (2020)
-- Member-at-Large, IEEE Signal Processing Board of Governors (2018-2019)
-- President, ECE Department Heads Association (ECEDHA) (2015)
-- IEEE Signal Processing Society Meritorious Service Award (2012)
-- Great Master, University of Electronic Science and Technology of China (2012)
-- IEEE Signal Processing Society VP Conferences (2006-2009)
-- IEEE Signal Processing Magazine Best Paper Award (2005)
-- Presidential Faculty Fellow Award (The White House/NSF), 1995
+- Yu, Y., Petropulu, A.P. and Poor, H.V., 2010. MIMO radar using

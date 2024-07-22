@@ -4,8 +4,6 @@ project:
   output-dir: docs
 
 website:
-  title: "Athina Petropulu"
-  author: "Athina Petropulu"
   navbar:
     left:
       - text: "Home"

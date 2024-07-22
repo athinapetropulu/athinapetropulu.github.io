@@ -1,5 +1,6 @@
 ---
 title: "Home"
+author: "Athina Petropulu"
 ---
 
 ![Athina Petropulu](assets/images/athina.jpg){.profile-pic}
