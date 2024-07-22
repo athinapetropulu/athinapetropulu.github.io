@@ -36,6 +36,13 @@ nav a:hover {
     width: 150px;
 }
 
+.caption {
+    font-size: 0.9em;
+    color: #666;
+    text-align: right;
+    margin-right: 10px;
+}
+
 h1, h2, h3 {
     color: #0056b3;
 }
