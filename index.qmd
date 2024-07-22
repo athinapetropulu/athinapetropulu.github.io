@@ -3,7 +3,8 @@ title: "Home"
 author: "Athina Petropulu"
 ---
 
-![Athina Petropulu](assets/images/athina.jpg){.profile-pic}
+<img src="assets/images/athina.jpg" alt="Athina Petropulu" class="profile-pic">
+<p class="caption">Image licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0-1.0 license</a></p>
 
 # Athina Petropulu
 
